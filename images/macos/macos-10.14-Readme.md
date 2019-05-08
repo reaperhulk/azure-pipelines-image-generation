@@ -57,7 +57,7 @@ Previously, Microsoft hosted Mac machines had JDKs pre-installed that were overl
 - Git LFS 2.7.2
 - GNU Wget 1.20.3
 - Subversion (SVN) 1.12.0
-
+- GNU parallel 20190422
 ### Tools
 
 - fastlane 2.121.1
